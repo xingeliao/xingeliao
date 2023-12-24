@@ -22,18 +22,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning:
 - Advanced concepts in Computer Science through my ongoing Master's program at the Georgia Institute of Technology, with a keen interest in Data Structures, Algorithms, Operating Systems, Database Systems, and Software Architecture and Design.
 
-## Education
-- **Georgia Institute of Technology**  
-  Master in Computer Science  
-  GPA: 4.0/4.0  
-  Jun 2022 – Present
-  
-## Skills
-- **Programming Languages**: Python, Java, SQL, JavaScript
-- **Frameworks and Libraries**: Spring Boot, Maven, Hibernate, Django, Junit
-- **Other Tools**: Git, Linux, Docker
-- **Languages**: English (Fluent), Spanish (Fluent), Chinese (Native)
-
 ## Projects
 - **Grocery Express Delivery (Java)**  
   Jan 2023 - Apr 2023
@@ -43,6 +31,12 @@ Here are some ideas to get you started:
 
 - **Statistic and Sentiment Analysis of Tourism Market (Python)**  
   Dec 2021 – May 2022
+
+## Skills
+- **Programming Languages**: Python, Java, SQL, JavaScript
+- **Frameworks and Libraries**: Spring Boot, Maven, Hibernate, Django, Junit
+- **Other Tools**: Git, Linux, Docker
+- **Languages**: English (Fluent), Spanish (Fluent), Chinese (Native)
 
 ---
 
